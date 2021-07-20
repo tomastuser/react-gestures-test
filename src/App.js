@@ -3,7 +3,7 @@ import { Example } from './Example';
 
 function App() {
   return (
-    <div className='App'>
+    <div style={{ overflow: 'hidden' }} className='App'>
       <header className='App-header'>
         <Example />
       </header>

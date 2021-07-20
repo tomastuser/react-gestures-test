@@ -25,8 +25,8 @@ export const Example = () => {
       {...bind()}
       style={{
         ...style,
-        width: '500px',
-        height: '500px',
+        width: '80vw',
+        height: '80vw',
         backgroundImage: 'url("./download.png")',
         backgroundSize: 'cover',
       }}
